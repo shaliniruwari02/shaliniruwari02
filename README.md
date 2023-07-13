@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shalini Ruwari</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <img align="right" alt="coding girl" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaliniruwari02&label=Profile%20views&color=0e75b6&style=flat" alt="shaliniruwari02" /> </p>
+-  I’m currently learning **Android Developing Machine Learning**
 
-- 🌱 I’m currently learning **Android Developing ,Machine Learning.**
+-  How to reach me **shaliniruwari@gmail.com**
 
-- 📫 How to reach me **shaliniruwari@gmail.com**
-
-- ⚡ Fun fact **I hate bugs 👾**
+-  Fun fact **I hate bugs **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
