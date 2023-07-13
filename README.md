@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding girl" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
--  I’m currently learning **Android Developing Machine Learning**
+-  I’m currently learning ** Android Developing Machine Learning**
 
 -  How to reach me **shaliniruwari@gmail.com**
 
@@ -21,6 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaliniruwari02&show_icons=true&locale=en" alt="shaliniruwari02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaliniruwari02&" alt="shaliniruwari02" /></p>">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaliniruwari02&" alt="shaliniruwari02" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaliniruwari02&label=Profile%20views&color=0e75b6&style=flat" alt="shaliniruwari02" /> </p>
