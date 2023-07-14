@@ -19,9 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaliniruwari02&show_icons=true&locale=en&layout=compact" alt="shaliniruwari02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaliniruwari02&show_icons=true&locale=en" alt="shaliniruwari02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaliniruwari02&" alt="shaliniruwari02" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaliniruwari02&label=Profile%20views&color=0e75b6&style=flat" alt="shaliniruwari02" /> </p>
 
